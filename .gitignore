@@ -2,7 +2,7 @@
 /dist
 /tmp
 /out-tsc
-/target
+#/target <- aquí se está generando clas clases provenientes del Web Service por eso lo subiremos tmb al gitHub
 
 # IDEs and editors
 /.idea
